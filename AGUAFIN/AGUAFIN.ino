@@ -1,3 +1,4 @@
+// Dispensador de agua inteligente 
 #include <SPI.h>
 
 #include <Adafruit_GFX.h>
