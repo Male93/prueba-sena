@@ -1,4 +1,4 @@
-// Dispensador de agua inteligente 
+// HYDROMETRICS
 #include <SPI.h>
 
 #include <Adafruit_GFX.h>
