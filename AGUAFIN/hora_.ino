@@ -1,3 +1,4 @@
+//HORA DEL DISPOSITIVO
 void {dibujarHora() 
   struct tm timeinfo;
   if(!getLocalTime(&timeinfo)){
